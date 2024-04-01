@@ -1,7 +1,7 @@
 # Recipe-book-app
 
 An Angular app that manages recipes and a shopping list where you can add the ingredients from the recipes you want. 
-I created this project following an Angular course. By working on this, I learned the following concepts:
+I created this project following an Angular course. By working on this, I learned the following concepts:<br>
 -Angular basics, Angular routing and making HTTP requests
 -TypeScript basics
 -Observables
