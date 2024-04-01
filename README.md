@@ -6,4 +6,10 @@ I created this project following an Angular course. By working on this, I learne
 -TypeScript basics<br>
 -Observables<br>
 -Deploying a Front End app<br>
+<br>
+Tech Stack:<br>
+-Angular<br>
+-TypeScript<br>
+-Firebase<br>
+<br>
 The app is hosted on firebase, so you can access the app by clicking this link: https://ng-course-recipe-book-f2fe5.web.app
